@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o Filipe
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente focado em Análise e Ciência de Dados.
+
 📊 Explorando o mundo dos dados com **Python, Jupyter Notebook, Google Colab, Pandas, NumPy e Excel**, enquanto aprofundo meus conhecimentos em visualização, tratamento e interpretação de dados.
 
 ---
@@ -22,9 +23,9 @@
 
 ## ✨ Sobre mim
 
-- 🔍 Buscando oportunidades como estagiária ou desenvolvedora front-end júnior
+- 🔍 Buscando oportunidades como analista de dados ou cientista de dados
 - 📚 Sempre aprendendo e criando projetos para praticar
-- 🌱 Estudando atualmente: **React** e boas práticas de desenvolvimento
+- 🌱 Estudando atualmente: **Data Science** e boas práticas de desenvolvimento
 - 📌 Gosto de transformar ideias em projetos e aprender com cada linha de código
 
 ---
