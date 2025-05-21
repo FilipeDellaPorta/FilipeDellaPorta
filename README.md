@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Filipe
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas e atualmente focada em desenvolvimento **Front-end**.  
-💻 Explorando o mundo do **React** enquanto solidifico meus conhecimentos em **HTML, CSS, JavaScript, Node.js, Angular e TypeScript**.
+🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente focado em Análise e Ciência de Dados.
+📊 Explorando o mundo dos dados com **Python, Jupyter Notebook, Google Colab, Pandas, NumPy e Excel**, enquanto aprofundo meus conhecimentos em visualização, tratamento e interpretação de dados.
 
 ---
 
