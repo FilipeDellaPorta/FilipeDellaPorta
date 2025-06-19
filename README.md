@@ -2,7 +2,7 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente focado em Análise e Ciência de Dados.
 
-📊 Explorando o mundo dos dados com **Python, Jupyter Notebook, Google Colab, Pandas, NumPy e Excel**, enquanto aprofundo meus conhecimentos em visualização, tratamento e interpretação de dados.
+📊 Explorando o mundo dos dados com **Python, Jupyter Notebook, Google Colab, Pandas, NumPy, Matplotlib e Seaborn**, enquanto aprofundo meus conhecimentos em visualização, tratamento e interpretação de dados.
 
 ---
 
